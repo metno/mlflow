@@ -27,7 +27,7 @@ alembic==1.13.1
     #   mlflow
 aniso8601==9.0.1
     # via graphene
-anyio==4.3.0
+anyio==4.14.2
     # via starlette
 asttokens==2.4.1
     # via stack-data
