@@ -503,7 +503,7 @@ pygments==2.17.2
     #   rich
     #   sphinx
     #   sphinx-tabs
-pyjwt[crypto]==2.8.0
+pyjwt[crypto]==2.15.0
     # via
     #   msal
     #   pyjwt
