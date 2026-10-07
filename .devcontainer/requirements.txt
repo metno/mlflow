@@ -695,7 +695,7 @@ tomli==2.0.1
     #   black
     #   coverage
     #   pytest
-tornado==6.4
+tornado==6.5.9
     # via
     #   ipykernel
     #   jupyter-client
