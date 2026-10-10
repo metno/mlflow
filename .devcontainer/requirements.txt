@@ -126,7 +126,7 @@ cycler==0.12.1
     # via matplotlib
 databricks-sdk==0.27.0
     # via -r test-requirements.txt
-datasets==2.19.0
+datasets==5.0.1
     # via evaluate
 debugpy==1.8.1
     # via ipykernel
