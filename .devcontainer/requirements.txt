@@ -511,7 +511,7 @@ pyparsing==3.1.2
     # via matplotlib
 pyphen==0.15.0
     # via textstat
-pyspark==3.5.1
+pyspark==3.5.8
     # via -r test-requirements.txt
 pytest==8.1.0
     # via
