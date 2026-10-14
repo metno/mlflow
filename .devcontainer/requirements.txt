@@ -330,7 +330,7 @@ matplotlib-inline==0.1.7
     # via
     #   ipykernel
     #   ipython
-mlflow==2.12.1
+mlflow==3.16.0
     # via mlserver-mlflow
 mlserver==1.3.5
     # via
