@@ -206,7 +206,7 @@ graphene==3.3
     # via
     #   -r core-requirements.txt
     #   mlflow
-graphql-core==3.2.3
+graphql-core==3.2.12
     # via
     #   graphene
     #   graphql-relay
