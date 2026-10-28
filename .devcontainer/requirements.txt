@@ -68,7 +68,7 @@ botocore==1.34.98
     #   boto3
     #   moto
     #   s3transfer
-brotli==1.1.0
+brotli==1.2.1
     # via geventhttpclient
 cachetools==5.3.3
     # via
