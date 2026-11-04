@@ -165,7 +165,7 @@ executing==2.0.1
     # via stack-data
 fastapi==0.89.1
     # via mlserver
-filelock==3.14.0
+filelock==4.2.1
     # via
     #   datasets
     #   huggingface-hub
